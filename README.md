@@ -3,4 +3,4 @@ This repository contains the density functional theory calculated data of all tw
 
 The goal of the research project was to screen through the non-redox-active pnictide chemical space for identifying potential beyond-silicon photovoltaic materials.
 
-Each folder has key output files (and a few input files as well) from density functional theory calculations performed for a given compound. We performed structure relaxations, density of states (DOS), and/or defect calculations for each candidate.
+Each folder has key output files (and a few input files as well) from density functional theory calculations performed for a given compound. We performed structure relaxations, density of states (DOS), band structure, phonon displacements, and/or defect calculations for each candidate.
